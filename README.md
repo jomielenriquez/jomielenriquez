@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jomielenriquez
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning MVC
-- 📫 How to reach me in gmail @ enriquez.jliquigan@gmail.com
+- 📫 Reach me in gmail @ enriquez.jliquigan@gmail.com
